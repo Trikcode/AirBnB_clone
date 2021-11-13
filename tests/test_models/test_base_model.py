@@ -7,7 +7,7 @@ import pep8 as pycodestyle
 import time
 import unittest
 from unittest import mock
-from models import base_model.py
+BaseModal = models.base_model.BaseModel
 module_doc = models.base_model.__doc__
 
 
