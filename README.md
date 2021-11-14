@@ -50,3 +50,7 @@ The console will be a tool to validate this storage engine.
 * create your first web server in Python
 * make your static HTML file dynamic by using objects stored in a file or database
 
+<h3> RESTful API </h3>
+
+* expose all your objects stored via a JSON web interface
+* manipulate your objects via a RESTful API
