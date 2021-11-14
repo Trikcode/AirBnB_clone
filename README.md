@@ -1,5 +1,11 @@
 <h1> AirBnB_clone </h1>
 
+The goal of the project is to deploy on your server a simple copy of the AirBnB website.
+
+The AirBnB website operates an online marketplace for travel information and booking services. The Company offers lodging, home-stay, and tourism services via websites and mobile applications. Airbnb serves clients worldwide.
+
+<h2>Files and Directories</h2>
+
 * <b>models</b> directory will contain all classes used for the entire project. A class, called “model” in a OOP project is the representation of an object/instance.
 
 * <b>tests directory</b> will contain all unit tests.
