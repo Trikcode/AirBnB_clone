@@ -40,12 +40,12 @@ The console will be a tool to validate this storage engine.
 * create the HTML of your application
 * create template of each object
 
-<h2>MySQL storage</h2>
+<h3>MySQL storage</h3>
 
 * replace the file storage by a Database storage
 * map your models to a table in database by using an O.R.M.
 
-<h2>Web framework - templating</h2>
+<h3>Web framework - templating</h3>
 
 * create your first web server in Python
 * make your static HTML file dynamic by using objects stored in a file or database
