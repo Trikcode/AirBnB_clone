@@ -34,7 +34,7 @@ This abstraction will also allow you to change the type of storage easily withou
 
 The console will be a tool to validate this storage engine.
 
-<h2> Web static </h2>
+<h3> Web static </h3>
 
 * learn HTML/CSS
 * create the HTML of your application
